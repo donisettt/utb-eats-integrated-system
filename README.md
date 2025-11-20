@@ -1,9 +1,9 @@
 # UTB Eats - Digital Canteen Solution 🍔📱
 
-<img src="docs/banner_web.png" width="350">
-<img src="docs/banner_student.png" width="350">
-<img src="docs/banner_student2.png" width="350">
-<img src="docs/banner_merchant.png" width="350"> 
+<img src="docs/banner_web.png" width="300">
+<img src="docs/banner_student.png" width="300">
+<img src="docs/banner_student2.png" width="300">
+<img src="docs/banner_merchant.png" width="300"> 
 
 ---
 
